@@ -2,13 +2,14 @@
 
 2. Descrição do Projeto
 
-Aplicação de desktop (GUI) desenvolvida em Python para a disciplina de [INSIRA O NOME DA DISCIPLINA AQUI]. O objetivo é demonstrar as quatro operações fundamentais de persistência de dados (CRUD) conectadas a um banco de dados MySQL.
+Aplicação de desktop (GUI) desenvolvida em Python para a disciplina de Banco de Dados. O objetivo é demonstrar as quatro operações fundamentais de persistência de dados (CRUD) conectadas a um banco de dados MySQL.
 
 A aplicação permite ao usuário gerenciar um cadastro simples de cursos.
 
 3. Screenshot da Aplicação
 
-(Recomendo que você tire um print da aplicação rodando e coloque aqui)
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/38fd1684-46ff-464e-a36f-4ad2913bd30a" />
+
 
 4. Funcionalidades (CRUD)
 
@@ -48,7 +49,7 @@ Siga os passos abaixo para executar o projeto:
 
 1. Clonar o Repositório
 
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone https://github.com/Henrique-GG/Trabalho_CRUD
 cd seu-repositorio
 
 
@@ -127,4 +128,4 @@ A janela da aplicação deverá abrir, e os dados do banco (se houver) serão ca
 
 10. Autor
 
-Desenvolvido por [Seu Nome / Nome do Grupo]
+Desenvolvido por [Henrique Guimarães Gonçalves, Lucas Goulart de Queiroz, Miguel Marques]
