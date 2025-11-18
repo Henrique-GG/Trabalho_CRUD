@@ -15,7 +15,7 @@ def conectar():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Henrique1109",  # coloque sua senha se tiver
+        password="",  # coloque sua senha se tiver
         database="crud_gui"
     )
 
@@ -133,3 +133,4 @@ tabela.bind("<ButtonRelease-1>", selecionar_item)
 carregar_registros()
 
 app.mainloop()
+
