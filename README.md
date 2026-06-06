@@ -101,7 +101,7 @@ def conectar():
     return mysql.connector.connect(
         host="localhost",
         user="root",            # <-- MUDE AQUI (seu usuário)
-        password="Henrique1109",  # <-- MUDE AQUI (sua senha)
+        password="Sua Senha",  # <-- MUDE AQUI (sua senha)
         database="crud_gui"
     )
 # ...
